@@ -53,4 +53,6 @@ How to run:
 
  
    run: 'py model.py'  to see the pure model in action
+
+   
    run:'py train.py' to train the model
