@@ -41,8 +41,16 @@ AI coding assistants used for debugging and coding assistance.
 
 
 How to run:
+
+
  run: pip install -r requirements.txt 
+
+ 
  run: py run.py
+
+ 
  optional:
-     run: 'py model.py'  to see the pure model in action
-     run:'py train.py' to train the model
+
+ 
+   run: 'py model.py'  to see the pure model in action
+   run:'py train.py' to train the model
