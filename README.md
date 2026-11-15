@@ -30,9 +30,19 @@ Problems in our dataset)also led to the model valuing cibil score much more than
 What We Have To Do Next
 Integrate LLM powered conversational coaching so users can ask customized questions about their rectification plan
 Find a more accurate and detailed dataset to increase the actual accuracy of the predictions
-
+ 
 Sources
 https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset for the dataset
 Uvicorn, and PyTorch ,scikit-learning and pandas for the model
 Bolt.new, React, Tailwind CSS, and Lucide React.
 AI coding assistants used for debugging and coding assistance.
+
+
+
+
+How to run:
+ run: pip install -r requirements.txt 
+ run: py run.py
+ optional:
+     run: 'py model.py'  to see the pure model in action
+     run:'py train.py' to train the model
